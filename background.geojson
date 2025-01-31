@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-180,90],[-180,-90],[180,-90],[180,90]]]},"properties":{"fill":"rgba(173, 196, 223, 1)","stroke-width":0,"stroke-opacity":0,"fill-opacity":1}}]}
