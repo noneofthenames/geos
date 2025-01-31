@@ -3,14 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "properties": { "name": "Latitude -90°" },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [[-180, -90], [180, -90]]
-      }
-    },
-    {
-      "type": "Feature",
       "properties": { "name": "Latitude -80°" },
       "geometry": {
         "type": "LineString",
@@ -144,7 +136,6 @@
         "type": "LineString",
         "coordinates": [[-180, 80], [180, 80]]
       }
-    }
     }
   ]
 }
