@@ -1,0 +1,264 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zuiderdal",
+                "zoomsize": 1,
+                "stroke": "green"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -63.177547, 55.987917 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Castelmar",
+                "zoomsize": 1,
+                "stroke": "green"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -66.152433, 45.986521 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sonnau",
+                "zoomsize": 1,
+                "stroke": "green"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -51.592948, 55.663843 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ekkia",
+                "zoomsize": 1,
+                "stroke": "green"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 145.110416, -19.885083 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Verdain",
+                "zoomsize": 1,
+                "stroke": "green"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -66.504722, 50.542343 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Naokawa",
+                "zoomsize": 1,
+                "stroke": "green"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 98.107448, -11.407557 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "green",
+                "name": "Ceolmara"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -84.382056, 54.044907 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "green",
+                "name": "Soleira"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -57.651003, 44.050097 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "green",
+                "name": "Harp's Island"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 124.245552, -2.125511 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Thiusian Sea",
+                "stroke": "blue"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -53.59173, 50.028687 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lake Uma",
+                "stroke": "blue"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 99.618836, -12.695671 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ocean 4",
+                "stroke": "blue"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -16.64808, 51.38163 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "blue",
+                "name": "Ocean 2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 30.167877, -19.885083 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "blue",
+                "name": "Ocean 5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -87.983615, -57.716408 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ocean 1",
+                "stroke": "blue"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 204.550871, 53.81405 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sapphirine Sea",
+                "stroke": "blue"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 131.909584, -8.128302 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Izernia",
+                "stroke": "purple"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -54.239299, 35.645827 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Continent 1",
+                "stroke": "purple"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -97.865214, -4.181121 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Continent 2",
+                "stroke": "purple"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 77.435524, 51.425889 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ocean 3",
+                "stroke": "blue"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 78.317957, 81.108707 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -52.375512, 61.239128 ]
+            },
+            "properties": {
+                "name": "Ennerstedt",
+                "stroke": "purple"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Something Lake",
+                "stroke": "blue"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -68.474727, 41.675053 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "green",
+                "name": "Eirlandie"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -76.867081, 60.84498 ]
+            }
+        }
+    ]
+}
