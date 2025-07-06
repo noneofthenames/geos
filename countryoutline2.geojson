@@ -50473,6 +50473,11 @@
                 ]
             },
             "properties": {
+                "fill": "rgba(105, 140, 90, 1)",
+                "fill-opacity": 0.8,
+                "stroke-width": 0.01,
+                "stroke-opacity": 0,
+                "Nation": "",
                 "name": "Verdain"
             }
         }
