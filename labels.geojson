@@ -120,17 +120,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Lake Uma",
-                "stroke": "blue"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [ 99.618836, -12.695671 ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Ocean 4",
                 "stroke": "blue"
             },
