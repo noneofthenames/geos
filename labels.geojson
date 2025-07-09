@@ -125,39 +125,6 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [ -16.64808, 51.38163 ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "stroke": "blue",
-                "name": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [ 30.167877, -19.885083 ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "stroke": "blue",
-                "name": "Ocean 5"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [ -87.983615, -57.716408 ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "",
-                "stroke": "blue"
-            },
-            "geometry": {
-                "type": "Point",
                 "coordinates": [ 204.550871, 53.81405 ]
             }
         },
@@ -170,72 +137,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [ 131.909584, -8.128302 ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "",
-                "stroke": "purple"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [ -54.239299, 35.645827 ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "",
-                "stroke": "purple"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [ -97.865214, -4.181121 ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "",
-                "stroke": "purple"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [ 77.435524, 51.425889 ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "",
-                "stroke": "blue"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [ 78.317957, 81.108707 ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [ -52.375512, 61.239128 ]
-            },
-            "properties": {
-                "name": "",
-                "stroke": "purple"
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "",
-                "stroke": "blue"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [ -68.474727, 41.675053 ]
             }
         },
         {
