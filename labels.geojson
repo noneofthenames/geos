@@ -120,7 +120,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Ocean 4",
+                "name": "",
                 "stroke": "blue"
             },
             "geometry": {
@@ -132,7 +132,7 @@
             "type": "Feature",
             "properties": {
                 "stroke": "blue",
-                "name": "Ocean 2"
+                "name": ""
             },
             "geometry": {
                 "type": "Point",
@@ -153,7 +153,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Ocean 1",
+                "name": "",
                 "stroke": "blue"
             },
             "geometry": {
@@ -175,7 +175,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Izernia",
+                "name": "",
                 "stroke": "purple"
             },
             "geometry": {
@@ -186,7 +186,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Continent 1",
+                "name": "",
                 "stroke": "purple"
             },
             "geometry": {
@@ -197,7 +197,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Continent 2",
+                "name": "",
                 "stroke": "purple"
             },
             "geometry": {
@@ -208,7 +208,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Ocean 3",
+                "name": "",
                 "stroke": "blue"
             },
             "geometry": {
@@ -223,14 +223,14 @@
                 "coordinates": [ -52.375512, 61.239128 ]
             },
             "properties": {
-                "name": "Ennerstedt",
+                "name": "",
                 "stroke": "purple"
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Something Lake",
+                "name": "",
                 "stroke": "blue"
             },
             "geometry": {
