@@ -109,39 +109,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Thiusian Sea",
-                "stroke": "blue"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [ -53.59173, 50.028687 ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "",
-                "stroke": "blue"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [ 204.550871, 53.81405 ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Sapphirine Sea",
-                "stroke": "blue"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [ 131.909584, -8.128302 ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "stroke": "green",
                 "name": "Eirlandie"
             },
